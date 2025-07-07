@@ -130,10 +130,10 @@ site:
     #
     # For a single URL, you can use BURP_START_URL. For example:
     #
-    #     $ BURP_START_URL="www.vulnerable-website.com/"
+        $ BURP_START_URL="https://demo.testfire.net"
     #
-    #     startUrls:
-    #     - ${BURP_START_URL}
+         startUrls:
+         - ${BURP_START_URL}
     #
     # For one or more URL, use BURP_START_URLS. For example:
     #
