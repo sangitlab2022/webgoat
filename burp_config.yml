@@ -122,7 +122,7 @@ site:
   correlationId: ${BURP_CORRELATION_ID}
 
   scope:
-  https://demo.testfire.net
+      https://demo.testfire.net
     # You need to provide a list of one or more URLs that Burp Scanner starts scanning from.  For example:
     #  startUrls:
     #  - www.vulnerable-website.com/
